@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, rgb(15, 112, 4), rgb(149, 7, 104));
+}
+button, .register-btn {
+    background: linear-gradient(45deg, #ac88c6,#126716);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight:bold ;
+    border-radius: 25px;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+button:hover, .register-btn:hover {
+    background: linear-gradient(45deg, #126716, #ac88c6);
+    box-shadow: 0 6px 15px rgba(0,0,0,0.4) ;
+}
+
+
+/* Content Section */
+.content
+{
+    display: inline;
+    padding-right: 20px;
+   
+}
+.content #image1
+{
+    width: 300px;
+    height: 250px;
+    margin: 10px;
+    border-radius: 6px;
+    border: 2px solid rgb(212, 86, 107);
+}
+.content #image2
+{
+    width: 300px;
+    height: 250px;
+    margin: 10px;
+    border-radius: 6px;
+    border: 2px solid rgb(212, 86, 107);
+}
+.content #image3
+{
+    width: 300px;
+    height: 250px;
+    margin: 10px;
+    border-radius: 6px;
+    border: 2px solid rgb(212, 86, 107);
+}
+.content #image4
+{
+    width: 300px;
+    height: 250px;
+    margin: 10px;
+    border-radius: 6px;
+    border: 2px solid rgb(212, 86, 107);
+}
+
+
